@@ -1,11 +1,12 @@
 {
     "name": "eol-semicolon-cr",
     "displayName": "eol-semicolon-cr",
-    "description": "Insert semicolon with a keyboard shortcut and enter into a new line",
-    "version": "0.0.1",
+    "description": "Insert semicolon with a keyboard shortcut Ctrl+; and enter into a new line",
+    "version": "0.2.0",
     "publisher": "psrdotcom",
     "author": "Suresh Raju Pilli",
     "license": "SEE LICENSE IN LICENSE",
+    "icon": "images/icon.png",
     "homepage": "https://github.com/psrdotcom/eol-semicolon-cr-vscode-extn",
     "repository": {
         "type": "git",

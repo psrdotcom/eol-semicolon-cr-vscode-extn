@@ -1,5 +1,5 @@
 # eol-semicolon-cr-vscode-extn
-Insert semicolon with a keyboard shortcut and enter into a new line
+Insert semicolon with a keyboard shortcut Ctrl+; and enter into a new line
 
 Pre-requisites:
 TypeScript (npm install -g typescript)
