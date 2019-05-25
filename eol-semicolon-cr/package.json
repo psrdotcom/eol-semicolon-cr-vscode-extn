@@ -1,7 +1,7 @@
 {
     "name": "eol-semicolon-cr",
     "displayName": "eol-semicolon-cr",
-    "description": "Insert semicolon with a keyboard shortcut Ctrl+; and enter into a new line",
+    "description": "With just a keyboard shortcut (Ctrl+;), automatically insert a semicolon at the end-of-line and create a new line.",
     "version": "0.2.0",
     "publisher": "psrdotcom",
     "author": "Suresh Raju Pilli",
